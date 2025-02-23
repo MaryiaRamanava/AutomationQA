@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite" >
+    <test name="AllTests">
+        <parameter name="email" value="user_1@user.user"/>
+        <parameter name="password" value="password"/>
+        <classes>
+            <class name="lesson16.parameters.parametersTest">
+            </class>
+        </classes>
+    </test>
+</suite>
